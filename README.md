@@ -1,7 +1,3 @@
-¡Absolutamente\! Aquí tienes el código completo y formateado en Markdown, listo para copiar y pegar en tu archivo `README.md` de GitHub para el proyecto **Pentagrama**.
-
------
-
 # 🎼 Pentagrama: E-commerce de Instrumentos Musicales
 
 **Pentagrama** es una aplicación web de comercio electrónico desarrollada en **Python** con el *framework* **Flask**. Su objetivo es simular una tienda en línea moderna para la venta y exhibición de instrumentos musicales.
